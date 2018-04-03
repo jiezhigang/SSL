@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="annotations-api">
+    <CLASSES>
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/annotations-api.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/catalina-ant.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/catalina-ha.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/catalina-tribes.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/catalina.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/ecj-4.4.2.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/el-api.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/jasper-el.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/jasper.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/jsp-api.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/servlet-api.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/tomcat-api.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/tomcat-coyote.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/tomcat-util.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/tomcat7-websocket.jar!/" />
+      <root url="jar://E:/webServer/apache-tomcat-7.0.73 - ssl/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
